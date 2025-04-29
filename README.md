@@ -1,6 +1,6 @@
-<h1 align="center">Hey 👋, I'm Jai</h1>
+<h1 align="center">Hey 👋, I'm Jayakumar</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Jayakumar Coding GIF">
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🔧 Tech Toolbox
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,vite,java,cpp,figma" alt="Tech stack icons" width="100%"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,vite,java,cpp,figma" alt="Jayakumar developer Tech stack icons" width="100%"/>
 
 ---
 
